@@ -1,4 +1,4 @@
-# Week 1: Introduction to Bioinformatics
+# Introduction to Bioinformatics
 
 ## What is Bioinformatics?
 Bioinformatics is an interdisciplinary field that combines biology, computer science, mathematics, and statistics to analyze and interpret biological data. It involves the development of algorithms, databases, and software tools to understand biological processes at the molecular level.

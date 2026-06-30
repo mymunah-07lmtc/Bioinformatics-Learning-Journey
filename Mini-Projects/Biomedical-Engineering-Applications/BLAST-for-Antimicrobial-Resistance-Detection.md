@@ -1,6 +1,6 @@
 # Biomedical Engineering Applications
 
-## Week 1: BLAST for Antimicrobial Resistance Detection
+## BLAST for Antimicrobial Resistance Detection
 - **BME problem**: Rapid identification of antibiotic‑resistant bacteria in clinical settings.
 - **How bioinformatics helps**:
   - A clinical isolate’s genome is sequenced (e.g., from a blood infection).

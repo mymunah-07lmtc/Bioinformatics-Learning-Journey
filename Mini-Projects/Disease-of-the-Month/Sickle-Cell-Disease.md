@@ -1,7 +1,5 @@
 # Disease of the Month
 
-*Each disease is linked to bioinformatics tools and BME relevance.*
-
 ## Month 1: Sickle Cell Disease
 - **Genetic cause**: Single nucleotide substitution in the β‑globin gene (*HBB*): **GAG → GTG** (Glu6Val).  
   *NCBI dbSNP: rs334*

@@ -1,6 +1,6 @@
 # Biomedical Engineering Applications
 
-## Week 3: NCBI & UniProt in Personalized Cancer Vaccines
+## Month 3: NCBI & UniProt in Personalized Cancer Vaccines
 - **BME problem**: Solid tumors like melanoma can be treated with patient‑specific vaccines.
 - **Workflow**:
   1. **NCBI**: Download tumor exome sequencing data and matched normal DNA.

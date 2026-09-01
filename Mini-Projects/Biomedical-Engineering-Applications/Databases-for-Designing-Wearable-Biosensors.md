@@ -1,6 +1,6 @@
 # Biomedical Engineering Applications
 
-## Month 4: Databases for Designing Wearable Biosensors
+## Databases for Designing Wearable Biosensors
 - **BME problem**: Continuous monitoring of biomarkers (e.g., glucose, lactate, cortisol) in sweat or interstitial fluid.
 - **Bioinformatics input**:
   - **UniProt** + **PDB**: Identify proteins (enzymes, antibodies) that specifically bind the target molecule.

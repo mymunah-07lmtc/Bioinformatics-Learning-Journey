@@ -1,6 +1,6 @@
 # Disease of the Month
 
-## Week 2: Cystic Fibrosis
+## Month 2: Cystic Fibrosis
 - **Genetic cause**: Mutations in the *CFTR* gene (Cystic Fibrosis Transmembrane Conductance Regulator). Most common: **F508del** (deletion of phenylalanine at position 508).
 - **Protein effect**: CFTR is a chloride channel. F508del causes misfolding and degradation, reducing chloride transport → thick mucus in lungs and pancreas.
 - **Bioinformatics tools used**:
